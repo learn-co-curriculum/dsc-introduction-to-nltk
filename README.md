@@ -13,13 +13,13 @@ You will be able to:
 * Identify ways we can use NLTK to simplify and accelerate common preprocessing tasks for text data
 
 
-### What is Natural Language Processing?
+## What is Natural Language Processing?
 
 **_Natural Language Processing_**, or **_NLP_**, refers to analytics tasks that deal with natural human language, in the form of text or speech. These tasks usually involve some sort of machine learning, whether for text classification or for feature generation, but NLP isn't just machine learning. Tasks such as text preprocessing and cleaning also fall under the NLP umbrella. 
 
 The most common python library used for NLP tasks is **_Natural Language Tool Kit_**, or NLTK for short. This library was developed by researchers at the University of Pennsylvania, and has quickly become the most powerful and complete library of NLP tools available. 
 
-### Using NLTK
+## Using NLTK
 
 NLTK is a sort of "one-stop shop" for all things NLP. It contains many sample corpora, with everything from full texts from Project Gutenberg to transcripts of State of the Union speeches from US Presidents. This library contains functions and tools for everything from data cleaning and preprocessing, to linguistic analysis, to feature generation and extraction. NLTK even contains its own Bayesian Classifiers for quick testing (although realistically, you'll likely want to continue using scikit-learn for these sorts of tasks). 
 
@@ -29,7 +29,7 @@ NLP is unique in that in addition to statistics and math, it also relies heavily
     <strong><em>A sample Parse Tree created with NLTK</em></strong>
     </center>
 
-### Working With Text, Simplified
+## Working With Text, Simplified
 
 Generally, projects that work with text data follow the same overall pattern as any other projects. The main difference is that text projects usually require a bit more cleaning and preprocessing than regular data, in order to get the text into a format that's usable for modeling. 
 
@@ -43,11 +43,11 @@ Here are some of the ways that NLTK can make our lives easier when working with 
 
 Again, don't worry if you're not sure what things like 'lemmatize' mean yet--we'll cover all of that soon! With effective use of NLTK, we can quickly process and work with text data, allowing us to quickly get our data into the shape needed for tasks we're familiar with, such as classification!
 
-### What To Expect In This Section
+## What To Expect In This Section
 
 For this section, we're going to spend some getting comfortable with NLTK, while also learning about foundational concepts of linguistics that underpin many of the tasks in NLP. We'll learn to effectively use NLTK to clean and preprocess data in a variety of ways. We'll gain some practice filtering data with regular expressions, generate text statistics to compare text documents, and quickly engineer features to help us better train classifiers for text classification!
 
 
-# Summary
+## Summary
 
 In this lesson, we learned about what NLP is, and how the NLTK package can save us time and make us more effective when working with text data. 
