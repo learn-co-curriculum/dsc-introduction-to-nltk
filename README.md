@@ -26,7 +26,7 @@ NLTK is a sort of "one-stop shop" for all things NLP. It contains many sample co
 NLP is unique in that in addition to statistics and math, it also relies heavily on the field of **_Lingustics_**. Many of the concepts you'll run into in this unit will be grounded in linguistics. Some of them will seem a bit foreign to you if you haven't studied languages or grammar yet, but don't worry! The reality of it all is that you don't need deep expertise in linguistics to work with text data, because NLTK was built by professionals to make it easier for everyone to access the linguistic tools and methods needed for working with text data. Although a linguist knows how to manually generate something like a **_Parse Tree_** for a sentence, NLTK provides this functionality for you in just a few lines of code. 
 
 
-<center> <img src='images/parse_tree.png'  width="780"> 
+<center> <img src='images/new_parse_tree.png'  width="750"> 
     
     <strong><em>A sample Parse Tree created with NLTK</em></strong>
     </center>
@@ -51,3 +51,8 @@ For this remainder of section, we're going to spend some time getting comfortabl
 ## Summary
 
 In this lesson, we learned about what NLP is, and how the NLTK package can save us time and make us more effective when working with text data. 
+
+
+```python
+
+```
