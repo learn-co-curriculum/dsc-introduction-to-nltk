@@ -39,11 +39,11 @@ Generally, projects that work with text data follow the same overall pattern as 
 
 Here are some of the ways that NLTK can make our lives easier when working with text data:
 
-* **_Stop Word Removal_**: NLTK contains a full library of stop words, making it easy to remove the words that don't matter from our data.    
-<br>  
-* **_Filtering and Cleaning_**: NLTK provides simple, easy ways to create and filter frequency distributions, as well providing multiple ways to clean, stem, lemmatize, or tokenize datasets. 
-<br>  
-* **_Feature Selection and Feature Engineering_**: NLTK contains tools to quickly generate features such as bigrams and n-grams. It also contains major libraries such as the **_Penn Tree Bank_** to allow quick feature engineering, such as generating part-of-speech tags, or sentence polarity. 
+- **_Stop Word Removal_**: NLTK contains a full library of stop words, making it easy to remove the words that don't matter from our data.    
+
+- **_Filtering and Cleaning_**: NLTK provides simple, easy ways to create and filter frequency distributions, as well providing multiple ways to clean, stem, lemmatize, or tokenize datasets.   
+
+- **_Feature Selection and Feature Engineering_**: NLTK contains tools to quickly generate features such as bigrams and n-grams. It also contains major libraries such as the **_Penn Tree Bank_** to allow quick feature engineering, such as generating part-of-speech tags, or sentence polarity. 
 
 Again, don't worry if you're not sure what things like 'lemmatize' mean yet -- we'll cover all of that soon! With effective use of NLTK, we can quickly process and work with text data, allowing us to quickly get our data into the shape needed for tasks we're familiar with, such as classification!
 
