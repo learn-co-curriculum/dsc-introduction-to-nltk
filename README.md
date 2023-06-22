@@ -1,4 +1,3 @@
-
 # Introduction to NLP with NLTK
 
 ## Introduction
@@ -22,7 +21,7 @@ The most common Python library used for NLP tasks is **_Natural Language Tool Ki
 
 NLTK is a sort of "one-stop shop" for all things NLP. It contains many sample corpora, with everything from full texts from Project Gutenberg to transcripts of State of the Union speeches from US Presidents. This library contains functions and tools for everything from data cleaning and preprocessing, to linguistic analysis, to feature generation and extraction. NLTK even contains its own Bayesian classifiers for quick testing (although realistically, you'll likely want to continue using scikit-learn for these sorts of tasks). 
 
-NLP is unique in that in addition to statistics and math, it also relies heavily on the field of **_Lingustics_**. Many of the concepts you'll run into will be grounded in linguistics. Some of them will seem a bit foreign to you if you haven't studied languages or grammar yet, but don't worry! The reality of it all is that you don't need deep expertise in linguistics to work with text data, because NLTK was built by professionals to make it easier for everyone to access the linguistic tools and methods needed for working with text data. Although a linguist knows how to manually generate something like a **_Parse Tree_** for a sentence, NLTK provides this functionality for you in just a few lines of code. 
+NLP is unique in that in addition to statistics and math, it also relies heavily on the field of **_Linguistics_**. Many of the concepts you'll run into will be grounded in linguistics. Some of them will seem a bit foreign to you if you haven't studied languages or grammar yet, but don't worry! The reality of it all is that you don't need deep expertise in linguistics to work with text data, because NLTK was built by professionals to make it easier for everyone to access the linguistic tools and methods needed for working with text data. Although a linguist knows how to manually generate something like a **_Parse Tree_** for a sentence, NLTK provides this functionality for you in just a few lines of code. 
 
 
 **A sample Parse Tree created with NLTK**
