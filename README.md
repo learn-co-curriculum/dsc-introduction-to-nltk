@@ -26,7 +26,7 @@ NLP is unique in that in addition to statistics and math, it also relies heavily
 
 **A sample Parse Tree created with NLTK**
 
-<center> <img src='images/new_parse_tree.png'  width="750"> </center>
+<center> <img src='https://curriculum-content.s3.amazonaws.com/data-science/images//new_parse_tree.png'  width="750"> </center>
     
     
     
